@@ -1,4 +1,5 @@
 # TripPaw
+![스크린샷_27-7-2025_13413_](https://github.com/user-attachments/assets/b9537060-3310-4097-aa00-5bdfd132e12a)
 
 ### 목차
 - 1️⃣ [프로젝트 개요](#프로젝트-개요)
