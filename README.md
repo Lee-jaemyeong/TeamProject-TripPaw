@@ -22,6 +22,9 @@
 ### 기술 스택
 
 ### 담당 기능
+#### 📺 시연 영상 (이미지 클릭시 유튜브로 이동됩니다.)
+
+[![Watch the video](https://img.youtube.com/vi/nXx9EeZ0TFE/hqdefault.jpg)](https://www.youtube.com/watch?v=nXx9EeZ0TFE&t=8s)
 
 ### 데이터 베이스 설계
 
