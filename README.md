@@ -26,6 +26,12 @@
 
 [![Watch the video](https://img.youtube.com/vi/nXx9EeZ0TFE/hqdefault.jpg)](https://www.youtube.com/watch?v=nXx9EeZ0TFE&t=8s)
 
+1. 예약 및 결제 CRUD 설계 및 기능 구현
+2. 추천받은 경로, 다른 사용자의 경로대로 일괄 예약 기능 구현
+3. 일괄 예약한 내역 일괄 결제 기능 구현
+4. 통합 결제 api를 연동하여 카드,카카오페이,토스페이 등 다양한 결제 기능 구현
+5. 예약에 자동 만료일 부여 – 만료시 다른 사용자도 예약가능
+
 ### 데이터 베이스 설계
 
 ### 트러블 슈팅
