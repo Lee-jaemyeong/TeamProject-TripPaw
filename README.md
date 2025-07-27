@@ -24,7 +24,7 @@
 <hr/>
 
 ### 기술 스택
-🌐 Front-End
+🌐 **Front-End**
 - Next.js 15.3.5
 - React 18.20.0
 - Ant Design (antd) 4.23.16
@@ -38,7 +38,7 @@
 - date-fns 4.1.0
 - html2canvas
 
-🖥️ Back-End
+🖥️ **Back-End**
 - Spring Boot 2.7.14
 - Java 11
 - Spring Security 2.7.14
@@ -55,7 +55,7 @@
 - OpenAI API 2.3.0
 - web3j 4.8.7
 
-📦 기타
+📦 **기타**
 - Spring Boot Admin
 - WebSocket 서버 통신
 - WSS 기반 실시간 알림 기능
