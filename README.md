@@ -24,7 +24,42 @@
 <hr/>
 
 ### 기술 스택
+🌐 Front-End
+- Next.js 15.3.5
+- React 18.20.0
+- Ant Design (antd) 4.23.16
+- styled-components 5.3.11
+- Axios 1.9.0
+- Kakao Map API 1.2.0
+- Stomp.js 7.1.1
+- WebSocket 1.6.1
+- dnd-kit 6.3.1
+- SortAble 1.15.6
+- date-fns 4.1.0
+- html2canvas
 
+🖥️ Back-End
+- Spring Boot 2.7.14
+- Java 11
+- Spring Security 2.7.14
+- Spring Data JPA 2.7.14
+- MyBatis 2.3.1
+- MySQL 8.0
+- Redis 2.7.14
+- Thymeleaf 3.0.15
+- RESTful API 2.7.14
+- JWT Token 0.1.15
+- Lombok 1.18.28
+- PortOne 결제 API
+- imPort API 0.2.3
+- OpenAI API 2.3.0
+- web3j 4.8.7
+
+📦 기타
+- Spring Boot Admin
+- WebSocket 서버 통신
+- WSS 기반 실시간 알림 기능
+- AI 연동(OpenAI)
 <hr/>
 
 ### 담당 기능
