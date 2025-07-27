@@ -77,6 +77,8 @@
 
 ### 데이터 베이스 설계
 
+<img width="512" height="261" alt="unnamed" src="https://github.com/user-attachments/assets/5b162ea3-fc78-4a21-9435-673eec262693" />
+
 <hr/>
 
 ### 트러블 슈팅
