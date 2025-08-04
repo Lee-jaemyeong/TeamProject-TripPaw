@@ -2,7 +2,7 @@
 ![스크린샷_27-7-2025_13413_](https://github.com/user-attachments/assets/b9537060-3310-4097-aa00-5bdfd132e12a)
 
 ## Team GitHub
-- [코드 확인하러 가기](https://github.com/syeon279/tripPaw)
+- [Team GitHub](https://github.com/syeon279/tripPaw)
 ### 목차
 - 1️⃣ [프로젝트 개요](#프로젝트-개요)
 - 2️⃣ [기술 스택](#기술-스택)
