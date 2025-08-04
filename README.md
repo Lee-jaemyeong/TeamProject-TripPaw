@@ -50,7 +50,6 @@
 - RESTful API 2.7.14
 - JWT Token 0.1.15
 - Lombok 1.18.28
-- PortOne 결제 API
 - imPort API 0.2.3
 - OpenAI API 2.3.0
 - web3j 4.8.7
